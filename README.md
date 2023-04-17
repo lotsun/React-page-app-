@@ -1,2 +1,5 @@
 # React-page-app-
-single page application 
+Single page application with React  
+we will work with components and templates, dynamic values in templates. 
+multiple components 
+uisng state (useState hook), funtions and props 
